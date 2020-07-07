@@ -429,8 +429,8 @@ def pilih_super():
 ••••••••••••••❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•••••••••••.
 : \033[1;97m ❥•❥•❥•❥•silentkiller  BlankMafia❥•❥•❥•❥• \033[1;93m :
 ••••••••••••••❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•••••••••••.' 
-                imo Num
-               +881881619575"""
+       "joy blank mafiar joy"
+    Dark Revel Rakib_vau. member in blank mafia"""
 	
 	raw_input("\n\033[1;93m[\033[1;91mBack\033[1;93m]")
 	menu()
